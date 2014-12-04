@@ -1,12 +1,7 @@
 Crunchbase-API-PHP-Library
 ==========================
-
-/**
- * PHP Crunchbase API Library
- * 
- * For more information refer to https://developer.crunchbase.com/docs
- * @author Juancho Rossi <juancho@juanchorossi.com>
- */
+For more information refer to https://developer.crunchbase.com/docs
+Juancho Rossi <juancho@juanchorossi.com>
 
 Usage:
 
